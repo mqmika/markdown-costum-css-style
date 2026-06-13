@@ -22,5 +22,14 @@ Projenin geliştirilmesinde aşağıdaki kütüphaneler ve teknolojiler kullanı
 
 Gerekli kütüphaneleri yükledikten sonra projeyi terminal üzerinden çalıştırabilirsiniz:
 
-```bash
+bash
 python gui_app.py
+
+**İNDİRME LİNKLERİ**
+
+**DOSYA.CO**: https://dosya.co/yn2mggrzqgoa/Markdown.exe.html
+
+**VİRÜSTOTAL: https://www.virustotal.com/gui/file/31134ab2199849852cc9c590dfd6117ddca63992daab0237b525c13ae7e51fa5?nocache=1
+
+## VİRÜSTOTAL SONUCUNUN NEDENİ : Uygulamanın çalıştırılabilir .exe sürümü, Python kodunun PyInstaller kütüphanesi kullanılarak tek bir paket haline getirilmesiyle oluşturulmuştur.
+Bazı antivirüs yazılımları (özellikle VirusTotal üzerinde yer alan az bilinen veya aşırı hassas motorlar), dijital olarak imzalanmamış ve paketlenmiş bu tür bağımsız .exe dosyalarını "False Positive" (Yalancı Pozitif) olarak değerlendirip hatalı bir şekilde zararlı yazılım olarak bayraklayabilmektedir.
