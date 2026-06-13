@@ -1,0 +1,5 @@
+## `requirements.txt`
+## İNDİRDİGİNİZ İÇİN TEŞEKKÜRLER
+```text
+customtkinter
+markdown
